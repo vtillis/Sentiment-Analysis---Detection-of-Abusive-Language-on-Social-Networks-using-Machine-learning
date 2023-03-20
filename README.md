@@ -1,4 +1,5 @@
-<p><b>Research Dissertation Sentiment Analysis - Detection of Abusive Language on Social Networks using Machine Learning</b></p>
+<p><b>MSc Research Dissertation 
+Sentiment Analysis - Detection of Abusive Language on Social Networks using Machine Learning</b></p>
 
 <b>Abstract</B>
 
